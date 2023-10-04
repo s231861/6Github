@@ -1,7 +1,7 @@
 # Headline
 
-x <- rnorm(100)
-y <- rnorm(100)
+x <- rnorm(200)
+y <- rnorm(200)
 
 # Important feature
 
@@ -11,4 +11,4 @@ library(tidyverse)
 a <- tibble(name =c("a", "b", "c"), id = c("d","e","f"))
 # USe sample afterwards sample(a$name, size = 1)
 
-# New feature
+# Normal
